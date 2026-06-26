@@ -1,6 +1,6 @@
 package interfaces
 
-// This is a wrapper for a cafe
+// This is a wrapper for the room
 // so we can handle the players inside more easily
 type Room interface {
 	// Add member to the room by id
